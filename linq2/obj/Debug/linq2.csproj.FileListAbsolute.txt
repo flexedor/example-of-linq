@@ -1,0 +1,12 @@
+C:\Users\fedor\source\repos\linq2\linq2\bin\Debug\linq2.exe.config
+C:\Users\fedor\source\repos\linq2\linq2\bin\Debug\linq2.exe
+C:\Users\fedor\source\repos\linq2\linq2\bin\Debug\linq2.pdb
+C:\Users\fedor\source\repos\linq2\linq2\obj\Debug\linq2.exe
+C:\Users\fedor\source\repos\linq2\linq2\obj\Debug\linq2.pdb
+C:\Progects\C#\linq2\linq2\bin\Debug\linq2.exe.config
+C:\Progects\C#\linq2\linq2\bin\Debug\linq2.exe
+C:\Progects\C#\linq2\linq2\bin\Debug\linq2.pdb
+C:\Progects\C#\linq2\linq2\obj\Debug\linq2.csprojAssemblyReference.cache
+C:\Progects\C#\linq2\linq2\obj\Debug\linq2.csproj.CoreCompileInputs.cache
+C:\Progects\C#\linq2\linq2\obj\Debug\linq2.exe
+C:\Progects\C#\linq2\linq2\obj\Debug\linq2.pdb
